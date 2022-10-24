@@ -1,0 +1,70 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+  }
+  
+  body {
+	color: white;
+	font-family: 'calibri';
+	background-color: beige;
+  }
+  
+  header {
+	background: url("https://weremote.net/wp-content/uploads/2022/05/programador-ordenadores-lampara-escritorio.jpg");
+	height: 450px;
+	background-size: cover;
+	background-repeat: no-repeat;
+  }
+  
+  section {
+	max-width: 1000px;
+	margin: auto;
+	padding: 30px 0;
+  }
+  
+  section h1 {
+	font-size: 44px;
+  }
+  
+  .conte {
+	text-align: center;
+	overflow: hidden;
+  }
+  
+  .conte p {
+	font-size: 60px;
+	font-weight: bold;
+	margin: 1em 0;
+  }
+  
+  .conte a {
+	color: white;
+	text-decoration: none;
+	background: #8BC34A;
+	padding: 4px 20px;
+	border-radius: 30px;
+	font-size: 30px;
+	margin: 10px;
+  }
+  .subititulo2{
+	text-align: left;
+    font-weight: 200;
+    color: #000000c5;
+    font-size: 17px;
+	font-family: 'Peralta', cursive;
+}
+.subititulo3{
+	text-align:left;
+    font-weight: 200;
+    color: #000000;
+    font-size: 17px;
+	font-family: 'Peralta', cursive;
+}
+.subititulo4{
+	text-align:left;
+    font-weight: 200;
+    color: #000000;
+    font-size: 17px;
+	font-family: 'Peralta', cursive;
+}
